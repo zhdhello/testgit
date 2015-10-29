@@ -11,4 +11,5 @@ public interface Jump {
 	 * 这是跳高功能
 	 */
 	public abstract void jump();
+	
 }
